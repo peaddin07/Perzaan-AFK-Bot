@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kala_Dhon.aternos.me:28367",
+    "ip": "Kala_Dhon.aternos.me",
     "port": 28367,
     "version": "1.21.1"
   },
